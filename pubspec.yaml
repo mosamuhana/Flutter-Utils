@@ -1,0 +1,27 @@
+name: flutter_utils
+version: 0.0.1
+author: Mousa Mhanna <mosamuhana@gmail.com>
+description: A Global Event Bus using Dart Streams
+repository: https://github.com/mosamuhana/flutter_utils
+homepage: https://github.com/mosamuhana
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0 <2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^1.10.3
+  build_web_compilers: ^2.12.1
+  build_test: ^1.2.2
+  logging: ^0.11.4
+  test: ^1.15.4
+  pedantic: ^1.9.2
+
+
+flutter:
